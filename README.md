@@ -17,9 +17,7 @@
 ### Some statistics
 ![trophy](https://github-profile-trophy.vercel.app/?username=TheDayG0ne)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDayG0ne)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDayG0ne&layout=compact) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDayG0ne) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDayG0ne&layout=compact) 
 
 
 
