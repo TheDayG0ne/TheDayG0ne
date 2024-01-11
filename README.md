@@ -20,17 +20,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=TheDayG0ne)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDayG0ne) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDayG0ne&layout=compact) 
-
-
-
-<!--- Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... --->
-
