@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I am <a href="https://thedayg0ne.ru/" target="_blank">Evgeniy</a>, also known as <a href="https://thedayg0ne.ru/" target="_blank">#TheDayG0ne</a></h1>
-<h3 align="center">Web & C# developer, @PRO100BYTE Team member from Russia 🇷🇺</h3>
+### Hi! I am [Evgeniy](https://thedayg0ne.ru), also known as [#TheDayG0ne](https://thedayg0ne.ru)
+#### Web & C# developer, @PRO100BYTE Team member from Russia 🇷🇺
 
 - 🔭 I’m currently working on [ProjectArcade](https://github.com/PRO100BYTE/ProjectArcade)
 - 🌱 I’m currently learning C#, React, devops
