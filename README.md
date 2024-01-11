@@ -1,17 +1,23 @@
 ### Hi! I am Evgeniy, also known as #TheDayG0ne
-<h1 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I am <a href="https://daniilshat.ru/" target="_blank">Evgeniy</a>, also known as <a href="https://daniilshat.ru/" target="_blank">#TheDayG0ne</a></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-<!--
-**TheDayG0ne/TheDayG0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">I am <a href="https://thedayg0ne.ru/" target="_blank">Evgeniy</a>, also known as <a href="https://thedayg0ne.ru/" target="_blank">#TheDayG0ne</a></h1>
+<h3 align="center">Web & C# developer, @PRO100BYTE Team member from Russia 🇷🇺</h3>
+
+- 🔭 I’m currently working on [ProjectArcade](https://github.com/PRO100BYTE/ProjectArcade)
+- 🌱 I’m currently learning C#, React, devops
+- 📫 How to reach me:
+  - E-mail: me@thedayg0ne.ru
+  - Telegram: [@TheDayG0ne](https://t.me/TheDayG0ne)
+<!-- **TheDayG0ne/TheDayG0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
