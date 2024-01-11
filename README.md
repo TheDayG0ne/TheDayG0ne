@@ -1,6 +1,4 @@
-### Hi! I am Evgeniy, also known as #TheDayG0ne
-<h1 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center">I am <a href="https://thedayg0ne.ru/" target="_blank">Evgeniy</a>, also known as <a href="https://thedayg0ne.ru/" target="_blank">#TheDayG0ne</a></h1>
+<h1 align="center">Hi! I am <a href="https://thedayg0ne.ru/" target="_blank">Evgeniy</a>, also known as <a href="https://thedayg0ne.ru/" target="_blank">#TheDayG0ne</a></h1>
 <h3 align="center">Web & C# developer, @PRO100BYTE Team member from Russia 🇷🇺</h3>
 
 - 🔭 I’m currently working on [ProjectArcade](https://github.com/PRO100BYTE/ProjectArcade)
