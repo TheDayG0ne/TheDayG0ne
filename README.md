@@ -2,7 +2,7 @@
 #### Web & C# developer, @PRO100BYTE Team member from Russia 🇷🇺
 ###
 - 🔭 I’m currently working on [ProjectArcade](https://github.com/PRO100BYTE/ProjectArcade)
-- 🌱 I’m currently learning C#, React, devops
+- 🌱 I’m currently learning C#, React, Vite, devops
 - 📫 How to reach me:
   - E-mail: me@thedayg0ne.ru
   - Telegram: [@TheDayG0ne](https://t.me/TheDayG0ne)
