@@ -1,5 +1,5 @@
 ### Hi! I am [Evgeniy](https://thedayg0ne.ru), also known as [#TheDayG0ne](https://thedayg0ne.ru)
-#### Web & C# developer, @PRO100BYTE Team member from Russia 🇷🇺
+#### Web & C# developer, PRO100BYTE Team member from Russia 🇷🇺
 ###
 - 🔭 I’m currently working on [ProjectArcade](https://github.com/PRO100BYTE/ProjectArcade)
 - 🌱 I’m currently learning C#, React, Vite, devops
