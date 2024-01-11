@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi! I am Evgeniy, also known as #TheDayG0ne
+<h1 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I am <a href="https://daniilshat.ru/" target="_blank">Evgeniy</a>, also known as <a href="https://daniilshat.ru/" target="_blank">#TheDayG0ne</a></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <!--
 **TheDayG0ne/TheDayG0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
