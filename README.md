@@ -18,5 +18,3 @@
 ![](https://komarev.com/ghpvc/?username=TheDayG0ne&style=for-the-badge&color=610094&base=614)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TheDayG0ne)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDayG0ne) 
