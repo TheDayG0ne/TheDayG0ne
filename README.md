@@ -1,5 +1,5 @@
 ### Hi! I am [Evgeniy](https://thedayg0ne.ru), also known as [#TheDayG0ne](https://thedayg0ne.ru)
-#### **Web** (React), **Mobile** (React Native) and **Desktop** (C#) developer; **PRO100BYTE Team** member from **Russia 🇷🇺**
+#### **Web** (React), **Mobile** (React Native) and **Desktop** (C#) developer; **PRO100BYTE Team** creator from **Russia 🇷🇺**
 ###
 - 🔭 I’m currently working on [**ProjectArcade**](https://github.com/PRO100BYTE/ProjectArcade), [**Мой ИТИ ХГУ** (My ITI KHSU)](https://github.com/PRO100BYTE/MyKHSU)
 - 🌱 I’m currently learning **C#, React, Vite, React Native, Expo, devops**
